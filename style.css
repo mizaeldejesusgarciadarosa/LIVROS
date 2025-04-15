@@ -1,0 +1,32 @@
+
+
+.body{
+    background-color: chartreuse;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 1.5rem;
+    line-height: 1.8;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.h1{
+    color: blue;
+    font-weight: bold;
+}
+
+.img{
+    width:30%;
+    max-width: 600px;
+    height: auto;
+    border: 5px solid #1494c7;
+    margin: 20px auto;
+    display: block;
+}
+
+.p{
+    font: size 1.8em;;
+}
+
+
